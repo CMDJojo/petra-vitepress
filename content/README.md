@@ -129,7 +129,7 @@ _Ensure you have a blank row before the list._ Numbered lists, like
 
 can be done with either
 
-```md
+```md
 1. One
 2. Two
 3. Three
