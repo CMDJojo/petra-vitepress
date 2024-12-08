@@ -163,7 +163,7 @@ _Skip this if you are not an advanced user._
 You can add so-called frontmatter properties at the top of each `.md` file to
 change how Vitepress treats it. The properties are written in YAML format, which
 is very easy for key-value pairs. If you want a page to be excluded from the
-sidebar index, you can put this at the very top of the `.md` file:
+sidebar index, you can put this at the very top of the `.md` file:
 
 ```
 ---
