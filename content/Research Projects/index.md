@@ -13,5 +13,5 @@ foundation for policymakers and healthcare units to rely on.
   used in a healthcare setting, as well as who bears the responsibility for errors that
   occurs as a result from the use of artificial intelligence in healthcare.
 - The [**perspective methasynthesis**](Perspective%20metasynthesis) project aims to synthesize
-  current qualitative research on the perspectives of clinicians and patiens on artificial
+  current qualitative research on the perspectives of clinicians and patients on artificial
   intelligence in primary care settings.

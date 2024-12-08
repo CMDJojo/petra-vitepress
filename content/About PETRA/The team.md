@@ -63,8 +63,8 @@ Lite om Carl Wikberg
 
 This group has collaborated with the following amazing people:
 
-- Robin Bogdanffy (The [perspecive metasynthesis][ms] project)
-- Alisa Mundzic (The [perspecive metasynthesis][ms] project)
+- Robin Bogdanffy (The [perspective metasynthesis][ms] project)
+- Alisa Mundzic (The [perspective metasynthesis][ms] project)
 - Lina Al-Naasan (The [survey](../Research%20Projects/Survey) project)
 - Artin Entezarjou (board member until September of 2024)
 

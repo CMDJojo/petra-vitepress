@@ -8,11 +8,20 @@ about AI in healthcare.
 
 ## The team behind it
 
-The researchers working on this project are:
+The working group for this project consists of:
 - [Lina Al-Naasan](/About%20PETRA/The%20team#colabs)
 - [Rasmus Arvidsson](/About%20PETRA/The%20team#arvid)
 - [David Sundemo](/About%20PETRA/The%20team#david)
 - [Jonathan Widén](/About%20PETRA/The%20team#jonathan)
+
+### Other contributors
+
+- Ronny Gunnarsson
+- Anna Moberg
+- Pär-Daniel Sundvall
+- Carl Wikberg
+
+_Names listed alphabetically_
 
 ## Project status
 
