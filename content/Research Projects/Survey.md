@@ -1,5 +1,7 @@
 # Survey
 
+Hej hej! Jonathan heter jag!
+
 This projects aims at evaluating both the clinican and the general public
 perspective on what requirenments they have for AI that would be used in primary
 care. The study is conducted by mailing a physical survey to 500 Swedish
