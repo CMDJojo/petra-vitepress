@@ -90,7 +90,7 @@ you want a link with the text "Click here" to gu.se, you can do
 
 ### **Bold** and _italic_ text
 
-To get text bold, surround it with `**`, like `**this**`. It will look like
+To get text bold, surround it with `**`, like `**this**`. It will look like
 **this**. To get text italic, surround it with `_`, `_this_` looks like _this_.
 To get text both bold and italic, surround it with `***`. `***this***` looks
 like ***this***.
