@@ -39,6 +39,6 @@ Recent advancements in artificial intelligence, such as GPT-4, have shown promis
   development of AI in healthcare.
 - The [**Synthetic EHR study**](Synthetic%20EHR%20Study), **"Creating an Open, Synthetic 
   Medical Record Dataset in Swedish for AI Development in Healthcare"**, aims to create an open
- dataset of synthetic medical records in Swedish, mimicking the language and structure of 
- real patient records while ensuring complete anonymization. The dataset will support AI 
- development in healthcare by providing realistic training data for language processing tasks.
+  dataset of synthetic medical records in Swedish, mimicking the language and structure of 
+  real patient records while ensuring complete anonymization. The dataset will support AI 
+  development in healthcare by providing realistic training data for language processing tasks.
