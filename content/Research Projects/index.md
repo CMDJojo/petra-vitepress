@@ -37,7 +37,7 @@ Recent advancements in artificial intelligence, such as GPT-4, have shown promis
   tools for healthcare professionals or direct interfaces for patients. Through qualitative 
   interviews, it aims to identify key themes and patterns to guide the implementation and 
   development of AI in healthcare.
-- The [**Synthetic EHR study**](Synthetic%20EHR%20Study), **"Creating an Open, Synthetic 
+- The [**Synthetic EHR study**](Synthetic%20EHR%20study), **"Creating an Open, Synthetic 
   Medical Record Dataset in Swedish for AI Development in Healthcare"**, aims to create an open
   dataset of synthetic medical records in Swedish, mimicking the language and structure of 
   real patient records while ensuring complete anonymization. The dataset will support AI 

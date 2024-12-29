@@ -8,14 +8,14 @@ This project investigates how artificial intelligence can meet the diverse knowl
 
 ## The Team Behind It
 
-- [Anna Moberg](/About%20PETRA/The%2+team#anna)
-- [Carl Wikberg](/About%20PETRA/The%2+team#carl)
+- [Anna Moberg](/About%20PETRA/The%20team#anna)
+- [Carl Wikberg](/About%20PETRA/The%20team#carl)
 - [David Sundemo](/About%20PETRA/The%20team#david)
 - [Jonathan Widén](/About%20PETRA/The%20team#jonathan)
-- [Peter Nymberg](/About%20PETRA/The%2+team#peter)
-- [Pär-Daniel Sundvall](/About%20PETRA/The%2+team#par-daniel)
+- [Peter Nymberg](/About%20PETRA/The%20team#peter)
+- [Pär-Daniel Sundvall](/About%20PETRA/The%20team#par-daniel)
 - [Rasmus Arvidsson](/About%20PETRA/The%20team#rasmus)
-- [Ronny Gunnarsson](/About%20PETRA/The%2+team#ronny)
+- [Ronny Gunnarsson](/About%20PETRA/The%20team#ronny)
 
 _Names listed alphabetically_
 
