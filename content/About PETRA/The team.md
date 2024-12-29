@@ -20,13 +20,9 @@ _The members are listed in alphabetic order._
 
 ### Rasmus Arvidsson {#rasmus}
 
-### Ronny Gunnarsson {#ronny}
+<img class="about-me" src="/team/Rasmus.png">
 
-### Anna Moberg {#anna}
-
-### Peter Nymberg {#peter}
-
-### David Sundemo {#david}
+Specialist in general practice at Hälsocentralen Sankt Hans Healthcare Center in Lund. Has experience in the medtech industry and some programming skills, although without formal training in this area.
 
 ### Pär-Daniel Sundvall {#par-daniel}
 
@@ -53,11 +49,35 @@ in Gothenburg, Sweden.
 
 [mpalg]: https://www.chalmers.se/en/education/find-masters-programme/computer-science-algorithms-languages-and-logic-msc/
 
+### Ronny Gunnarsson {#ronny}
+
+<img class="about-me" src="https://placehold.co/150x200">
+
+More info to come...
+
+### David Sundemo {#david}
+
+<img class="about-me" src="https://placehold.co/150x200">
+
+More info to come...
+
 ### Carl Wikberg {#carl}
 
 <img class="about-me" src="https://placehold.co/150x200">
 
-Lite om Carl Wikberg
+More info to come...
+
+### Peter Nymberg {#peter}
+
+<img class="about-me" src="https://placehold.co/150x200">
+
+More info to come...
+
+### Anna Moberg {#anna}
+
+<img class="about-me" src="https://placehold.co/150x200">
+
+More info to come...
 
 ## Research collaborations {#colabs}
 
@@ -65,7 +85,7 @@ This group has collaborated with the following amazing people:
 
 - Robin Bogdanffy (The [perspective metasynthesis][ms] project)
 - Alisa Mundzic (The [perspective metasynthesis][ms] project)
-- Lina Al-Naasan (The [survey](../Research%20Projects/Survey) project)
+- Lina Al-Naasan (The [survey](../Research%20Projects/Survey%20study) project)
 - Artin Entezarjou (board member until September of 2024)
 
 [ms]: ../Research%20Projects/Perspective%20metasynthesis

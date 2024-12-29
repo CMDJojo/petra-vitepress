@@ -1,4 +1,6 @@
-# Perspective metasynthesis
+<h3 style="color: grey;"><i>Perspective metasynthesis</i></h3>
+
+# Exploring Perspectives on Artificial Intelligence in Primary Care – A Qualitative Meta-Synthesis
 
 The Perspective Metasynthesis project conducts two literature studies, exploring
 the perspective of (1) patients, and (2) clinicans on
