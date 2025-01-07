@@ -26,7 +26,7 @@ Specialist in general practice at Hälsocentralen Sankt Hans Healthcare Center i
 
 ### Anna Moberg {#anna}
 
-<img class="about-me" src="https://placehold.co/150x200">
+<img class="about-me" src="/team/Anna.jpeg">
 
 Anna Moberg is a general practitioner and a senior lecturer at HMV, Linköping
 University. Her research mainly focuses on three areas: digital heart and lung
