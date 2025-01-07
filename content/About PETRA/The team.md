@@ -77,7 +77,9 @@ More info to come...
 
 <img class="about-me" src="https://placehold.co/150x200">
 
-More info to come...
+Anna Moberg is a general practitioner and a senior lecturer at HMV, Linköping
+University. Her research mainly focuses on three areas: digital heart and lung
+sounds, infections in primary care, and AI in primary care.
 
 ## Research collaborations {#colabs}
 
