@@ -24,6 +24,14 @@ _The members are listed in alphabetic order._
 
 Specialist in general practice at Hälsocentralen Sankt Hans Healthcare Center in Lund. Has experience in the medtech industry and some programming skills, although without formal training in this area.
 
+### Anna Moberg {#anna}
+
+<img class="about-me" src="https://placehold.co/150x200">
+
+Anna Moberg is a general practitioner and a senior lecturer at HMV, Linköping
+University. Her research mainly focuses on three areas: digital heart and lung
+sounds, infections in primary care, and AI in primary care.
+
 ### Pär-Daniel Sundvall {#par-daniel}
 
 <img class="about-me" src="/team/Par-Daniel.jpeg" />
@@ -72,14 +80,6 @@ More info to come...
 <img class="about-me" src="https://placehold.co/150x200">
 
 More info to come...
-
-### Anna Moberg {#anna}
-
-<img class="about-me" src="https://placehold.co/150x200">
-
-Anna Moberg is a general practitioner and a senior lecturer at HMV, Linköping
-University. Her research mainly focuses on three areas: digital heart and lung
-sounds, infections in primary care, and AI in primary care.
 
 ## Research collaborations {#colabs}
 
