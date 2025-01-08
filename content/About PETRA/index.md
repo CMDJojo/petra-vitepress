@@ -5,9 +5,9 @@
 The PETRA group &ndash;
 the Primary care Emergent Technology Research and Advancement Group &ndash;
 is a research group started by a group of students, physiciants, and
-Ph.D. students from Sweden, all with a strong interest in research, new
+Ph.D. students, all with a strong interest in research, new
 technology, and healthcare. We have since expanded, adding collaborations with
-more researchers from Sweden and from abroad. Learn more about the team behind
+more researchers from all over the world. Learn more about the team behind
 PETRA [here](The%20team).
 
 ## Our mission
