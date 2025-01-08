@@ -22,7 +22,7 @@ export default defineConfig({
       { text: "Research projects", link: "/Research%20Projects" },
     ],
     sidebar: generateSidebar(sidebarConfig),
-    socialLinks: [{ icon: "linkedin", link: "https://example.com" }],
+    // socialLinks: [{ icon: "linkedin", link: "https://example.com" }],
     footer: {
       message:
         "The Primary care Emergent Technology Research and Advancement Group",
