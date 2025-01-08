@@ -4,7 +4,7 @@
 
 This project investigates how artificial intelligence can meet the diverse knowledge demands of primary care by categorizing and analyzing real-world questions posed by doctors and nurses. Using anonymized data collected through secure chat platforms designed to simulate interactions with a medical chatbot, the study aims to identify the most common question categories and their proportional representation across user groups. These findings will provide insights into the practical challenges and opportunities for AI in primary care settings.
 
-<img src="/qualitative_study.jpg">
+<img src="/qualitative_study.webp">
 
 ## The Team Behind It
 

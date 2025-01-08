@@ -7,7 +7,7 @@ The project seeks to address the scarcity of accessible data for AI development 
 With a target of producing 2,000 high-quality synthetic medical records, the project will establish a publicly accessible repository for researchers and developers. This resource aims to accelerate the development and deployment of AI models capable of processing and understanding Swedish medical records, ultimately contributing to more effective AI applications in healthcare.
 
 
-<img src="/syntethic_ehr.jpg">
+<img src="/syntethic_ehr.webp">
 
 ## The Team Behind It
 

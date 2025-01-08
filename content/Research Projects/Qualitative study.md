@@ -6,7 +6,7 @@ This project investigates how healthcare professionals and patients perceive and
 
 The findings are expected to provide insights into the current understanding and expectations of AI in healthcare. They will help identify potential barriers and facilitators to AI adoption, inform the design of educational materials and guidelines, and offer recommendations for policymakers, healthcare organizations, and researchers. By capturing both the hopes and concerns of those interacting with AI in primary care, the study aims to ensure that future implementations align with the needs and expectations of users.
 
-<img src="/qualitative_study.jpg">
+<img src="/qualitative_study.webp">
 
 ## The Team Behind It
 

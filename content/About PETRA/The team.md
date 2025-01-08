@@ -26,7 +26,7 @@ Specialist in general practice at Hälsocentralen Sankt Hans Healthcare Center i
 
 ### Anna Moberg {#anna}
 
-<img class="about-me" src="/team/Anna.jpeg">
+<img class="about-me" src="/team/Anna.webp">
 
 Anna Moberg is a general practitioner and a senior lecturer at HMV, Linköping
 University. Her research mainly focuses on three areas: digital heart and lung
@@ -34,7 +34,7 @@ sounds, infections in primary care, and AI in primary care.
 
 ### Pär-Daniel Sundvall {#par-daniel}
 
-<img class="about-me" src="/team/Par-Daniel.jpeg" />
+<img class="about-me" src="/team/Par-Daniel.webp" />
 
 Pär-Daniel is a specialized physician, and a professor at [University of Gothenburg][gu]
 within the School of Public Health and Community Medicine. He is active within
@@ -46,7 +46,7 @@ primary care.
 
 ### Jonathan Widén {#jonathan}
 
-<img class="about-me" src="/team/Jonathan.jpeg" />
+<img class="about-me" src="/team/Jonathan.webp" />
 
 Jonathan studies Computer Science and Engineering at
 [Chalmers University of Technology][mpalg]. He has a B.Sc. in Computer Science
@@ -59,7 +59,7 @@ in Gothenburg, Sweden.
 
 ### Carl Wikberg {#carl}
 
-<img class="about-me" src="/team/Carl.jpeg">
+<img class="about-me" src="/team/Carl.webp">
 
 Carl is a District Nurse with a PhD in medicine at University of Gothenburg,
 passionate about integrating new technologies into healthcare. He believes in

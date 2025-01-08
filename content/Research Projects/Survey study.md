@@ -8,7 +8,7 @@ care. The study is conducted by mailing a physical survey to 500 Swedish
 clinicians and 500 randomly selected Swedish citzens, and ask them questions
 about AI in healthcare.
 
-<img src="/survey_study.jpg">
+<img src="/survey_study.webp">
 
 ## The team behind it
 
