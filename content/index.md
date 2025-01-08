@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "PETRA"
   image:
-    src: /logo.png
+    src: /logo.webp
     alt: "Logo"
   tagline: Evaluating emergent technology in primary care
   actions:

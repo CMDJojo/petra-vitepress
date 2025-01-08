@@ -20,7 +20,7 @@ _The members are listed in alphabetic order._
 
 ### Rasmus Arvidsson {#rasmus}
 
-<img class="about-me" src="/team/Rasmus.png">
+<img class="about-me" src="/team/Rasmus.webp">
 
 Specialist in general practice at Hälsocentralen Sankt Hans Healthcare Center in Lund. Has experience in the medtech industry and some programming skills, although without formal training in this area.
 
