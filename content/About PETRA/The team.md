@@ -57,6 +57,15 @@ in Gothenburg, Sweden.
 
 [mpalg]: https://www.chalmers.se/en/education/find-masters-programme/computer-science-algorithms-languages-and-logic-msc/
 
+### Carl Wikberg {#carl}
+
+<img class="about-me" src="/team/Carl.jpeg">
+
+Carl is a District Nurse with a PhD in medicine at University of Gothenburg,
+passionate about integrating new technologies into healthcare. He believes in
+the transformative power of love and strive to inspire others to think
+independently.
+
 ### Ronny Gunnarsson {#ronny}
 
 <img class="about-me" src="https://placehold.co/150x200">
@@ -64,12 +73,6 @@ in Gothenburg, Sweden.
 More info to come...
 
 ### David Sundemo {#david}
-
-<img class="about-me" src="https://placehold.co/150x200">
-
-More info to come...
-
-### Carl Wikberg {#carl}
 
 <img class="about-me" src="https://placehold.co/150x200">
 
