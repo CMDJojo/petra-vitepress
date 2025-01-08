@@ -32,6 +32,12 @@ Anna Moberg is a general practitioner and a senior lecturer at HMV, Linköping
 University. Her research mainly focuses on three areas: digital heart and lung
 sounds, infections in primary care, and AI in primary care.
 
+### David Sundemo {#david}
+
+<img class="about-me" src="/team/David.webp">
+
+More info to come...
+
 ### Pär-Daniel Sundvall {#par-daniel}
 
 <img class="about-me" src="/team/Par-Daniel.webp" />
@@ -67,12 +73,6 @@ the transformative power of love and strive to inspire others to think
 independently.
 
 ### Ronny Gunnarsson {#ronny}
-
-<img class="about-me" src="https://placehold.co/150x200">
-
-More info to come...
-
-### David Sundemo {#david}
 
 <img class="about-me" src="https://placehold.co/150x200">
 
