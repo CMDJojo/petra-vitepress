@@ -36,10 +36,11 @@ sounds, infections in primary care, and AI in primary care.
 
 <img class="about-me" src="/team/Peter.webp">
 
-Peter is a District Nurse with a PhD, dividing his time between clinical work at a health care
-centre and time for research in various fields of medicine. Affiliated Office for Primary Care,
-Skåne University Hospital, and Center for Primary Health Care Research, Department of Clinical
-Sciences Malmö, Lund University, Malmö, Sweden.
+Peter is a District Nurse with a PhD, dividing his time between clinical work at a healthcare
+centre and time for research in several different primary care research projects. 
+Affiliated with the Office for Primary Care, Skåne University Hospital, 
+and Center for Primary Health Care Research, Department of Clinical
+Sciences Malmö, Lund University, Sweden.
 
 ### David Sundemo {#david}
 
