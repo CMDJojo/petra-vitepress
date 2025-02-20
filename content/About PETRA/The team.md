@@ -32,6 +32,15 @@ Anna Moberg is a general practitioner and a senior lecturer at HMV, Linköping
 University. Her research mainly focuses on three areas: digital heart and lung
 sounds, infections in primary care, and AI in primary care.
 
+### Peter Nymberg {#peter}
+
+<img class="about-me" src="/team/Peter.webp">
+
+Peter is a District Nurse with a PhD, dividing his time between clinical work at a health care
+centre and time for research in various fields of medicine. Affiliated Office for Primary Care,
+Skåne University Hospital, and Center for Primary Health Care Research, Department of Clinical
+Sciences Malmö, Lund University, Malmö, Sweden.
+
 ### David Sundemo {#david}
 
 <img class="about-me" src="/team/David.webp">
@@ -73,12 +82,6 @@ the transformative power of love and strive to inspire others to think
 independently.
 
 ### Ronny Gunnarsson {#ronny}
-
-<img class="about-me" src="https://placehold.co/150x200">
-
-More info to come...
-
-### Peter Nymberg {#peter}
 
 <img class="about-me" src="https://placehold.co/150x200">
 
