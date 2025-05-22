@@ -1,13 +1,16 @@
 # Our research
 
-This group actively conducts research in several topics. Since we have many projects
-ongoing at the same time, not all members of the group are part of every project,
+This group actively conducts research in several topics. The themes [Research Themes](../Research Themes/Research Themes.md) 
+describes the high-level research trajectory, and are directly related to the previously published articles and to ongoing and forthcoming projects. 
+
+Since we have many projects ongoing at the same time, not all members of the group are part of every project,
 and we invite and collaborate with different researches outside the group in projects
 we deem to align with our purpose as a group, to facilitate a broad and well-established
 foundation for policymakers and healthcare units to rely on.
 
 ## Published research
 ### ChatGPT (GPT-4) versus doctors on complex cases of the Swedish family medicine specialist examination: an observational comparative study
+_Theme:_ Theme 
 
 Recent advancements in artificial intelligence, such as GPT-4, have shown promise in answering medical multiple-choice questions. However, how well can AI handle free-text assessments for complex primary care cases? This study compared GPT-4's responses to those of real doctors using anonymized cases from the Swedish family medicine specialist examination. While GPT-4 achieved a mean score of 4.5 on a 10-point scale, it fell short of both randomly selected doctor responses (6.0) and top-tier doctor responses (7.2). This underscores the current limitations of AI in nuanced medical decision-making. Read the [full article here](https://bmjopen.bmj.com/content/14/12/e086148).
 
