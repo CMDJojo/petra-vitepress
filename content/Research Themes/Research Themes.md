@@ -2,6 +2,7 @@
 
 To effectively channel our research efforts and ensure impactful progress, the PETRA group's projects are organized under five core themes. These themes provide a framework for innovation and collaboration, as briefly outlined below.
 
+
 **Theme One: AI Benchmark for Swedish Primary Care**
 
 Many existing AI models in healthcare have been tested using non-representative databases, such as the United States Medical Licensing Examination (USMLE). Our aim is to develop a benchmark for Swedish primary care that is truly representative, containing questions and tasks from working clinicians during their daily patient related work. The goal is to create publicly available benchmarks, accessible to developers and researchers worldwide. These benchmarks will be developed in three stages, with increasing levels of complexity:
@@ -9,6 +10,7 @@ Many existing AI models in healthcare have been tested using non-representative 
 - Oracle AI
 - EHR-embedded active assistant
 - EHR-embedded agentic AI
+  
 
 **Theme Two: Evaluation of AI Models**
 
@@ -18,10 +20,12 @@ This broad theme comprises different ways of evaluating how current AI technolog
 - Evaluation of AI performance on specifically designed benchmarks (including our own)
 - Qualitative studies exploring user experience and ethical implications
 - Clinical studies assessing real-world impact and safety
+  
 
 **Theme Three: Development of Clinical Applications** 
 
 In the design of benchmarks, value, usability and creation of applications have to be taken into account. There are several opportunities to develop tools to aid clinicians, spurring from the research conducted by the PETRA-group. 
+
 
 **Theme Four: Data Creation, Methods, and Tools**
 
@@ -29,6 +33,7 @@ Robust technical tools, methodologies, and datasets are crucial to enable progre
 
 - Development of Synthetic Electronic Health Records
 - Development and iteration of Large Language Model (LLM)-based automated feedback and correction algorithms
+  
 
 **Theme Five: Medical Philosophy and Stakeholder Preferences**
 
