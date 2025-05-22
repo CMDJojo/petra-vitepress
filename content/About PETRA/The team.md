@@ -76,7 +76,7 @@ More info to come...
 
 <img class="about-me" src="https://placehold.co/150x200">
 
-David Sundemo is the research group leader of the PETRA-group, also working part time as a resident in general practice at Närhälsan Lerum, just outside of Gothenburg. He works on different aspects of AI in healthcare, interested in everything from practical evaluation and implementation of AI to questions of the value of the human clinican and the (possible) limits of automation. 
+David Sundemo leads the PETRA research group while also working part-time as a resident in general practice at Närhälsan Lerum, near Gothenburg. His work focuses on various aspects of AI in healthcare, encompassing everything from the practical evaluation and implementation of AI to inquiries into the value of the human clinician and the (possible) limits of automation.
 
 ### Peter Nymberg {#peter}
 
