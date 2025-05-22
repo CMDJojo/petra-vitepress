@@ -7,13 +7,16 @@ hero:
   image:
     src: /logo.webp
     alt: "Logo"
-  tagline: Evaluating emergent technology in primary care
+  tagline: Evaluating Emergent Technology in Primary Care
   actions:
     - theme: brand
-      text: Our research projects
+      text: Our Research Themes
+      link: /Research Themes
+    - theme: alt
+      text: Research Projects
       link: /Research Projects
     - theme: alt
-      text: About us
+      text: About Us
       link: /About PETRA
 
 features:
