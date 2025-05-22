@@ -42,12 +42,6 @@ Affiliated with the Office for Primary Care, Skåne University Hospital,
 and Center for Primary Health Care Research, Department of Clinical
 Sciences Malmö, Lund University, Sweden.
 
-### David Sundemo {#david}
-
-<img class="about-me" src="/team/David.webp">
-
-More info to come...
-
 ### Pär-Daniel Sundvall {#par-daniel}
 
 <img class="about-me" src="/team/Par-Daniel.webp" />
@@ -90,15 +84,9 @@ More info to come...
 
 ### David Sundemo {#david}
 
-<img class="about-me" src="https://placehold.co/150x200">
+<img class="about-me" src="/team/David.webp">
 
 David Sundemo is the research group leader of the PETRA-group, also working part time as a resident in general practice at Närhälsan Lerum, just outside of Gothenburg. He works on different aspects of AI in healthcare, interested in everything from practical evaluation and implementation of AI to questions of the value of the human clinican and the (possible) limits of automation.
-
-### Peter Nymberg {#peter}
-
-<img class="about-me" src="https://placehold.co/150x200">
-
-More info to come...
 
 ## Research collaborations {#colabs}
 
