@@ -46,6 +46,10 @@ This systematic review provides a comprehensive understanding of patients’ per
     padding: 2rem;
 }
 
+:global(.dark) .article {
+    background-color: rgb(0, 0, 0);
+}
+
 .article>h1,
 .article>h2,
 .article>h3 {
