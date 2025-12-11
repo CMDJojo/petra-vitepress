@@ -29,4 +29,18 @@ export default defineConfig({
       copyright: "Copyright © 2024 The PETRA group",
     },
   },
+  head: [
+    ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
+    [
+      "link",
+      { rel: "preconnect", href: "https://fonts.gstatic.com", crossorigin: "" },
+    ],
+    [
+      "link",
+      {
+        href: "https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap",
+        rel: "stylesheet",
+      },
+    ],
+  ],
 });
