@@ -115,3 +115,17 @@ The mean scores were 6.0, 7.2 and 4.5 for randomly selected doctor responses, to
 In complex primary care cases, GPT-4 performs worse than human doctors taking the family medicine specialist examination. Future GPT-based chatbots may perform better, but comprehensive evaluations are needed before implementing chatbots for medical decision support in primary care.
 
 </Publication>
+
+<Publication
+    title="Ethical risks of AI-enabled remote patient monitoring for COPD: a multi-dimensional use case analysis"
+    authors="D Behdadi; Lowie E. G. W. Vanfleteren; David Sundemo"
+    journal="AI & Society"
+    doi="10.1007/s00146-025-02806-9"
+    status="Published"
+    id="ethical-risks-remote-monitoring"
+    open-access
+    >
+
+Artificial intelligence (AI)-enabled remote patient monitoring (RPM) is promoted as a solution to rising pressures in health care, including personnel shortages and the growing burden associated with population aging and chronic disease management. Yet, the ethical implications of deploying adaptive systems in routine care remain underexamined at the level of specific, situated use cases. This article examines the ethical risks of MonitAir, an AI-enabled RPM system for chronic obstructive pulmonary disease (COPD) in a Swedish health care setting. Drawing on the Three Domains, Six Levels (3D6L) framework, we identify epistemic, normative and traceability-related risks across six levels of abstraction. The article offers, to our knowledge, the first operationalization of the 3D6L as an analytic tool for screening ethical risks. We argue that screening AI-enabled health care technology with 3D6L clarifies how ethical risks manifest across levels, from individual patients and patient–clinician relationships to organizational and sectoral contexts. In addition, the framework’s minimal normativity allows alignment with context-sensitive principles and guidelines. Through this analysis, we identify ethical risks related to data bias, intelligibility of outputs, uneven access and blurred responsibility, including redistributive and role-shifting effects. While MonitAir may support earlier detection of exacerbations, its implementation in Swedish COPD care may also reproduce and amplify existing health disparities or overburden patients without sufficient support. We demonstrate how structured ethical screening makes visible concerns typically overlooked by the optimization discourse in digital health. Finally, we argue that open-ended evaluation of ethical risks of AI-enabled DHT provides a valuable early phase that complements ethical assessment, without collapsing into checklist compliance.
+
+</Publication>
