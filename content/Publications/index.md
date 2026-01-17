@@ -6,15 +6,15 @@ next: false
 ---
 
 <script setup>
-import PetraArticle from "../../components/PetraArticle.vue"
+import Publication from "../../components/Publication.vue"
 </script>
 
 <!--
 How to add an article:
 
-You should first add some "article tags", which can enclose content. They look like this:
+You should first add some "publication tags", which can enclose content. They look like this:
 
-<PetraArticle
+<Publication
     title="Enter the title of the work here"
     authors="Author 1; Author 2; ..."
     journal="Journal name goes here"
@@ -25,16 +25,17 @@ You should first add some "article tags", which can enclose content. They look l
 
 Enclosed content goes here...
 
-</PetraArticle>
+</Publication>
 
-Enter applicable metadata within quotes, and remove lines that are not needed (most items are optional). Remove "open-access" if it is not open access.
+Enter applicable metadata within quotes at the opening publication tag, and remove lines that are not needed (most items are optional).
+(I.e. remove "open-access" if it is not open access, remove DOI if you don't have or want links to the article).
 
 If you don't want to publish the abstract, do not enter any "enclosed content". If you do, add the abstract there. The lines with abstract headings
 should start with ###, and there must be a blank line between heading lines and the next/previous lines.
 
 -->
 
-<PetraArticle
+<Publication
     title="Exploring Primary Care Patients’ Perspectives on Artificial Intelligence: A systematic literature review and qualitative meta-synthesis"
     authors="Alisa Mundzic; Robin Bogdanffy; David Sundemo; Pär-Daniel Sundvall; Jonathan Widén; Peter Nymberg; Carl Wikberg; Anna Moberg; Ronny Gunnarsson; Artin Entezarjou"
     journal="JMIR AI"
@@ -62,9 +63,9 @@ Of 1004 studies screened, six were included, comprising 170 patients aged 13 to 
 ### Conclusions:
 
 This systematic review provides a comprehensive understanding of patients’ perspectives on AI in primary care. We identified heterogeneity in AI definitions across studies. Further research is needed on patients’ perspectives across different countries and particularly regarding LLMs.
-</PetraArticle>
+</Publication>
 
-<PetraArticle
+<Publication
     title="Exploring Clinician Perspectives on Artificial Intelligence in Primary Care: a qualitative systematic review and meta synthesis"
     authors="Robin Bogdanffy;  Alisa Mundzic;  Peter Nymberg;  David Sundemo;  Anna Moberg;  Carl Wikberg;  Ronny Kent Gunnarsson;  Jonathan Widén;  Pär-Daniel Sundvall;  Artin Entezarjou"
     journal="JMIR AI"
@@ -73,9 +74,9 @@ This systematic review provides a comprehensive understanding of patients’ per
     open-access
     >
 
-</PetraArticle>
+</Publication>
 
-<PetraArticle
+<Publication
     title="ChatGPT (GPT-4) versus doctors on complex cases of the Swedish family medicine specialist examination: an observational comparative study"
     authors="Rasmus Arvidsson; Ronny Gunnarsson; Artin Entezarjou; David Sundemo; Carl Wikberg"
     journal="BMJ Open"
@@ -112,4 +113,4 @@ The mean scores were 6.0, 7.2 and 4.5 for randomly selected doctor responses, to
 
 In complex primary care cases, GPT-4 performs worse than human doctors taking the family medicine specialist examination. Future GPT-based chatbots may perform better, but comprehensive evaluations are needed before implementing chatbots for medical decision support in primary care.
 
-</PetraArticle>
+</Publication>
