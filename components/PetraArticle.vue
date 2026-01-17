@@ -116,7 +116,7 @@ button.more {
     background-color: rgb(246, 246, 247);
     border-radius: 8px;
     padding: 2rem;
-    margin-bottom: 4rem;
+    margin-bottom: 3rem;
 }
 
 .read-full {
