@@ -2,19 +2,43 @@
 outline: 1
 ---
 
-<div :class="$style.article">
+<script setup>
+import PetraArticle from "../../components/PetraArticle.vue"
+</script>
 
-# Exploring Primary Care Patients’ Perspectives on Artificial Intelligence: A systematic literature review and qualitative meta-synthesis
+<!--
+How to add an article:
 
-_Alisa Mundzic; Robin Bogdanffy; David Sundemo; Pär-Daniel Sundvall; Jonathan Widén; Peter Nymberg; Carl Wikberg; Anna Moberg; Ronny Gunnarsson; Artin Entezarjou_
+You should first add some "article tags", which can enclose content. They look like this:
 
-<div :class="$style.status">
+<PetraArticle
+    title="Enter the title of the work here"
+    authors="Author 1; Author 2; ..."
+    journal="Journal name goes here"
+    doi="DOI number here if applicable"
+    status="Published or In production or In review"
+    open-access
+    >
 
-[DOI: 10.2196/72211](https://doi.org/10.2196/72211)
+Enclosed content goes here...
 
-</div>
+</PetraArticle>
 
-## ABSTRACT
+Enter applicable metadata within quotes, and remove lines that are not needed (most items are optional). Remove "open-access" if it is not open access.
+
+If you don't want to publish the abstract, do not enter any "enclosed content". If you do, add the abstract there. The lines with abstract headings
+should start with ###, and there must be a blank line between heading lines and the next/previous lines.
+
+-->
+
+<PetraArticle
+    title="Exploring Primary Care Patients’ Perspectives on Artificial Intelligence: A systematic literature review and qualitative meta-synthesis"
+    authors="Alisa Mundzic; Robin Bogdanffy; David Sundemo; Pär-Daniel Sundvall; Jonathan Widén; Peter Nymberg; Carl Wikberg; Anna Moberg; Ronny Gunnarsson; Artin Entezarjou"
+    journal="JMIR AI"
+    doi="10.2196/72211"
+    status="Published"
+    open-access
+    >
 
 ### Background:
 
@@ -35,53 +59,4 @@ Of 1004 studies screened, six were included, comprising 170 patients aged 13 to 
 ### Conclusions:
 
 This systematic review provides a comprehensive understanding of patients’ perspectives on AI in primary care. We identified heterogeneity in AI definitions across studies. Further research is needed on patients’ perspectives across different countries and particularly regarding LLMs.
-
-</div>
-
-<style module>
-
-.article {
-    background-color: rgb(246, 246, 247);
-    border-radius: 8px;
-    padding: 2rem;
-}
-
-:global(.dark) .article {
-    background-color: rgb(0, 0, 0);
-}
-
-.article>h1,
-.article>h2,
-.article>h3 {
-    font-family: "DM Serif Text", serif;
-}
-
-.article .status {
-    width: min(max(300px, 50%), 100%);
-    padding: 0rem 1rem;
-}
-
-.article .status * {
-    margin-top: 1rem;
-}
-
-.article .status .inprod {
-    color: black;
-    background-color: #dddd07;
-    border-radius: 5px;
-    padding: 0.2rem 1rem;
-    text-decoration-line: none;
-    width: 100%;
-    display: block;
-}
-
-.article .status a:nth-of-type(1) {
-    color: black;
-    background-color: #48c89d;
-    border-radius: 5px;
-    padding: 0.2rem 1rem;
-    text-decoration-line: none;
-    width: 100%;
-    display: block;
-}
-</style>
+</PetraArticle>
