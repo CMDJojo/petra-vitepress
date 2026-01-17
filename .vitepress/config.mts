@@ -45,4 +45,7 @@ export default defineConfig({
       },
     ],
   ],
+  ignoreDeadLinks: [
+    "/Publications" // IDs to articles are not MD-based
+  ]
 });

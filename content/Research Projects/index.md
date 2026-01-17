@@ -10,7 +10,7 @@ foundation for policymakers and healthcare units to rely on.
 
 ## Published research
 
-### ChatGPT (GPT-4) versus doctors on complex cases of the Swedish family medicine specialist examination: an observational comparative study
+### ChatGPT (GPT-4) versus doctors on complex cases of the Swedish family medicine specialist examination: an observational comparative study [(link)](/Publications#chatgpt-vs-doctors)
 
 _Theme:_ Theme Two - Evaluation of AI-models
 

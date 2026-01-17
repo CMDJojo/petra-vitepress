@@ -1,14 +1,15 @@
 <script setup lang="ts">
 
-import { ref } from 'vue'
+import { ref, useTemplateRef, nextTick, onMounted, onBeforeUnmount } from 'vue'
 
-defineProps<{
+const props = defineProps<{
     title: string,
     authors: string,
     journal?: string,
     doi?: string,
     status?: ArticleStatus,
-    openAccess?: boolean
+    openAccess?: boolean,
+    id?: string
 }>();
 
 export type ArticleStatus = "Published" | "In production" | "In review"
@@ -17,20 +18,43 @@ const toLink = d => `https://doi.org/${d}`
 
 const minified = ref<boolean>(true);
 
-const statusMap = {"Published": "published", "In production": "inprod", "In review": "inreview"}
+const statusMap = {"published": "published", "in production": "inprod", "in review": "inreview"}
 const genId = x => x.toLowerCase().replace(/[^a-z0-9]/g, "-")
 
+// If we use a hashlink (eg Publications/#chatgpt-vs-doctors) either to the article or to a subsection,
+// we want to expand the article and scroll the desired part into view. Otherwise, browsers will just
+// "scroll" the fixed collapsed article, which is very ugly
+const thisArticle = useTemplateRef("this-article");
+const checkHash = async () => {
+    if (!window.location.hash || !thisArticle.value) return;
+    const target = document.getElementById(window.location.hash.slice(1));
+    if (target && thisArticle.value.contains(target)) {
+        minified.value = false;
+        await nextTick()
+        target.scrollIntoView();
+    }
+}
+onMounted(() => {
+    if (props.status && !statusMap[props.status.toLowerCase()]) {
+        console.warn(`Article status '${props.status}' not any of ${Object.keys(statusMap).join(",")}: no badge`)
+    }
+    checkHash();
+    window.addEventListener('hashchange', checkHash);
+})
+onBeforeUnmount(() => {
+    window.removeEventListener('hashchange', checkHash);
+})
 </script>
 
 <template>
-    <div class="article" :class="$style.article">
-        <h1 :id="genId(title)">{{title}}</h1>
+    <div class="article" :class="$style.article" ref="this-article">
+        <h1 :id="id ?? genId(title)">{{title}}</h1>
         <em v-if="authors">{{authors}}</em>
         <p v-if="journal" class="journal">Journal: <em>{{journal}}</em></p>
 
         <div class="badges">
             <a v-if="doi" class="doi badge" :href="toLink(doi)">DOI: {{doi}}</a>
-            <div v-if="statusMap[status]" class="badge" :class="statusMap[status]">
+            <div v-if="statusMap[status.toLowerCase()]" class="badge" :class="statusMap[status.toLowerCase()]">
                 {{status}}
             </div>
             <div v-if="openAccess" class="open-access badge">Open access</div>

@@ -82,6 +82,7 @@ This systematic review provides a comprehensive understanding of patients’ per
     journal="BMJ Open"
     doi="10.1136/bmjopen-2024-086148"
     status="Published"
+    id="chatgpt-vs-doctors"
     open-access
     >
 
