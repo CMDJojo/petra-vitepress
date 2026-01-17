@@ -3,7 +3,7 @@ import { generateSidebar } from "vitepress-sidebar";
 import type { VitePressSidebarOptions } from "vitepress-sidebar/types";
 
 const sidebarConfig: VitePressSidebarOptions = {
-  excludePattern: ["public"],
+  excludeByGlobPattern: ["public", "Publications"],
   documentRootPath: "content",
   useFolderLinkFromIndexFile: true,
   excludeFilesByFrontmatterFieldName: "exclude",
@@ -21,6 +21,7 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Research projects", link: "/Research%20Projects" },
+      { text: "Publications", link: "/Publications" },
     ],
     sidebar: generateSidebar(sidebarConfig),
     // socialLinks: [{ icon: "linkedin", link: "https://example.com" }],

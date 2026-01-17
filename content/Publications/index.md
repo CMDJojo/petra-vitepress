@@ -1,5 +1,8 @@
 ---
 outline: 1
+sidebar: false
+prev: false
+next: false
 ---
 
 <script setup>
