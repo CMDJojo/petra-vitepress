@@ -1,5 +1,6 @@
 import { defineConfig } from "vitepress";
-import { generateSidebar, VitePressSidebarOptions } from "vitepress-sidebar";
+import { generateSidebar } from "vitepress-sidebar";
+import type { VitePressSidebarOptions } from "vitepress-sidebar/types";
 
 const sidebarConfig: VitePressSidebarOptions = {
   excludePattern: ["public"],
