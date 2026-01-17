@@ -27,7 +27,7 @@ export default defineConfig({
     footer: {
       message:
         "The Primary care Emergent Technology Research and Advancement Group",
-      copyright: "Copyright © 2024 The PETRA group",
+      copyright: "Copyright © 2025 The PETRA group",
     },
   },
   head: [
