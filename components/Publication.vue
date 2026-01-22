@@ -1,25 +1,28 @@
 <script setup lang="ts">
-
-import { ref, useTemplateRef, nextTick, onMounted, onBeforeUnmount } from 'vue'
+import { ref, useTemplateRef, nextTick, onMounted, onBeforeUnmount } from "vue";
 
 const props = defineProps<{
-    title: string,
-    authors: string,
-    journal?: string,
-    doi?: string,
-    status?: ArticleStatus,
-    openAccess?: boolean,
-    id?: string
+    title: string;
+    authors: string;
+    journal?: string;
+    doi?: string;
+    status?: ArticleStatus;
+    openAccess?: boolean;
+    id?: string;
 }>();
 
-export type ArticleStatus = "Published" | "In production" | "In review"
+export type ArticleStatus = "Published" | "In production" | "In review";
 
-const toLink = d => `https://doi.org/${d}`
+const toLink = (d: string) => `https://doi.org/${d}`;
 
 const minified = ref<boolean>(true);
 
-const statusMap = {"published": "published", "in production": "inprod", "in review": "inreview"}
-const genId = x => x.toLowerCase().replace(/[^a-z0-9]/g, "-")
+const statusMap: { [key: string]: string } = {
+    published: "published",
+    "in production": "inprod",
+    "in review": "inreview",
+};
+const genId = (x: string) => x.toLowerCase().replace(/[^a-z0-9]/g, "-");
 
 // If we use a hashlink (eg Publications/#chatgpt-vs-doctors) either to the article or to a subsection,
 // we want to expand the article and scroll the desired part into view. Otherwise, browsers will just
@@ -30,54 +33,62 @@ const checkHash = async () => {
     const target = document.getElementById(window.location.hash.slice(1));
     if (target && thisArticle.value.contains(target)) {
         minified.value = false;
-        await nextTick()
+        await nextTick();
         target.scrollIntoView();
     }
-}
+};
 onMounted(() => {
     if (props.status && !statusMap[props.status.toLowerCase()]) {
-        console.warn(`Article status '${props.status}' not any of ${Object.keys(statusMap).join(",")}: no badge`)
+        console.warn(
+            `Article status '${props.status}' not any of ${Object.keys(statusMap).join(",")}: no badge`,
+        );
     }
     checkHash();
-    window.addEventListener('hashchange', checkHash);
-})
+    window.addEventListener("hashchange", checkHash);
+});
 onBeforeUnmount(() => {
-    window.removeEventListener('hashchange', checkHash);
-})
+    window.removeEventListener("hashchange", checkHash);
+});
 </script>
 
 <template>
     <div class="article" :class="$style.article" ref="this-article">
-        <h1 :id="id ?? genId(title)">{{title}}</h1>
-        <em v-if="authors">{{authors}}</em>
-        <p v-if="journal" class="journal">Journal: <em>{{journal}}</em></p>
+        <h1 :id="id ?? genId(title)">{{ title }}</h1>
+        <em v-if="authors">{{ authors }}</em>
+        <p v-if="journal" class="journal">
+            Journal: <em>{{ journal }}</em>
+        </p>
 
         <div class="badges">
-            <a v-if="doi" class="doi badge" :href="toLink(doi)">DOI: {{doi}}</a>
-            <div v-if="statusMap[status.toLowerCase()]" class="badge" :class="statusMap[status.toLowerCase()]">
-                {{status}}
+            <a v-if="doi" class="doi badge" :href="toLink(doi)"
+                >DOI: {{ doi }}</a
+            >
+            <div
+                v-if="status && statusMap[status.toLowerCase()]"
+                class="badge"
+                :class="statusMap[status.toLowerCase()]"
+            >
+                {{ status }}
             </div>
             <div v-if="openAccess" class="open-access badge">Open access</div>
         </div>
 
         <div v-if="$slots.default" class="abstract-wrapper">
-            <div class="abstract" :class="{minified}">
+            <div class="abstract" :class="{ minified }">
                 <h2>ABSTRACT</h2>
                 <slot />
             </div>
             <p v-if="!minified && doi" class="read-full">
                 <a :href="toLink(doi)">Read article</a>
             </p>
-            <button @click="minified = !minified" class="more">{{minified ? "Show" : "Hide"}} full abstract</button>
+            <button @click="minified = !minified" class="more">
+                {{ minified ? "Show" : "Hide" }} full abstract
+            </button>
         </div>
     </div>
 </template>
 
 <style scoped>
-.abstract {
-
-}
-
 .minified {
     max-height: 20rem;
     overflow: hidden;
@@ -88,7 +99,7 @@ button.more {
     font-weight: 600;
 }
 
-.badges  {
+.badges {
     margin-top: 1rem;
     width: 100%;
     display: flex;
