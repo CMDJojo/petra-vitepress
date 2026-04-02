@@ -36,6 +36,16 @@ should start with ###, and there must be a blank line between heading lines and 
 -->
 
 <Publication
+title="Acceptable Accuracy for Medical AI: A Survey of Physicians and the General Population in Sweden"
+authors="Rasmus Arvidsson; Jonathan Widén; Lina Al-Naasan; Ronny Kent K Gunnarsson; Peter Nymberg; Charlotte R Blease; Anna Moberg; Pär-Daniel Sundvall; Carl Wikberg; David Sundemo"
+    journal="BMJ Health & Care Informatics"
+    status="In production"
+    open-access
+    >
+
+</Publication>
+
+<Publication
     title="Exploring Primary Care Patients’ Perspectives on Artificial Intelligence: A systematic literature review and qualitative meta-synthesis"
     authors="Alisa Mundzic; Robin Bogdanffy; David Sundemo; Pär-Daniel Sundvall; Jonathan Widén; Peter Nymberg; Carl Wikberg; Anna Moberg; Ronny Gunnarsson; Artin Entezarjou"
     journal="JMIR AI"
@@ -70,10 +80,29 @@ This systematic review provides a comprehensive understanding of patients’ per
     authors="Robin Bogdanffy;  Alisa Mundzic;  Peter Nymberg;  David Sundemo;  Anna Moberg;  Carl Wikberg;  Ronny Kent Gunnarsson;  Jonathan Widén;  Pär-Daniel Sundvall;  Artin Entezarjou"
     journal="JMIR AI"
     doi="10.2196/72210"
-    status="In production"
+    status="Published"
     open-access
     >
 
+### Background:
+
+Recent advances have highlighted the potential of artificial intelligence (AI) systems to assist clinicians with administrative and clinical tasks, but concerns regarding biases, lack of regulation, and potential technical issues pose significant challenges. The lack of a clear definition of AI, combined with limited focus on qualitative research exploring clinicians' perspectives, has limited the understanding of perspectives on AI in primary health care settings.
+
+### Objective:
+
+This review aims to synthesize current qualitative research on the perspectives of clinicians on AI in primary care settings.
+
+### Methods:
+
+A systematic search was conducted in MEDLINE (PubMed), Scopus, Web of Science, and CINAHL (EBSCOhost) databases for publications from inception to February 5, 2024. The search strategy was designed using the Sample, Phenomenon of Interest, Design, Evaluation, and Research type (SPIDER) framework. Studies were eligible if they were published in English, peer-reviewed, and provided qualitative analyses of clinician perspectives on AI in primary health care. Studies were excluded if they were gray literature, used questionnaires, surveys, or similar methods for data collection, or if the perspectives of clinicians were not distinguishable from those of nonclinicians. A qualitative systematic review and thematic synthesis were performed. The Grading of Recommendations Assessment, Development and Evaluation-Confidence in Evidence from Reviews of Qualitative Research (GRADE-CERQual) approach was used to assess confidence in the findings. The CASP (Critical Appraisal Skills Program) checklist for qualitative research was used for risk-of-bias and quality appraisal.
+
+### Results:
+
+A total of 1492 records were identified, of which 13 studies from 6 countries were included, representing qualitative data from 238 primary care physicians, nurses, physiotherapists, and other health care professionals providing direct patient care. Eight descriptive themes were identified and synthesized into 3 analytical themes using thematic synthesis: (1) the human-machine relationship, describing clinicians’ thoughts on AI assistance in administration and clinical work, interactions between clinicians, patients, and AI, and resistance and skepticism toward AI; (2) the technologically enhanced clinic, highlighting the effects of AI on the workplace, fear of errors, and desired features; and (3) the societal impact of AI, reflecting concerns about data privacy, medicolegal liability, and bias. GRADE-CERQual assessment rated confidence as high in 15 findings, moderate in 5 findings, and low in 1 finding.
+
+### Conclusions:
+
+Clinicians view AI as a technology that can both enhance and complicate primary health care. While AI can provide substantial support, its integration into health care requires careful consideration of ethical implications, technical reliability, and the maintenance of human oversight. Interpretation is constrained by heterogeneity in qualitative methods and the diversity of AI technologies examined across studies. More in-depth qualitative research on the effects of AI on clinicians’ careers and autonomy could prove helpful for the future development of AI systems.
 </Publication>
 
 <Publication
