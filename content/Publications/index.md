@@ -39,9 +39,30 @@ should start with ###, and there must be a blank line between heading lines and 
 title="Acceptable Accuracy for Medical AI: A Survey of Physicians and the General Population in Sweden"
 authors="Rasmus Arvidsson; Jonathan Widén; Lina Al-Naasan; Ronny Kent K Gunnarsson; Peter Nymberg; Charlotte R Blease; Anna Moberg; Pär-Daniel Sundvall; Carl Wikberg; David Sundemo"
     journal="BMJ Health & Care Informatics"
-    status="In production"
+    status="Published"
+    doi="10.1136/bmjhci-2025-101899"
     open-access
     >
+
+### Objectives:
+
+To identify the lowest sensitivity and specificity that physicians and the general population consider acceptable for medical artificial intelligence (AI), relative to current human performance.
+
+### Methods:
+
+In a nationwide, cross-sectional survey in Sweden, 2025, random samples of 500 physicians and 500 adults from the general population were mailed a questionnaire presenting three vignettes (chest pain triage, sore throat triage, ECG myocardial infarction detection) with the corresponding human performance. Participants reported the maximum number of cases an AI should be allowed to miss or over-refer.
+
+### Results:
+
+Response rates were 45% among physicians and 31% in the general population. Both groups demanded higher AI accuracy than the human benchmark for all cases. In the chest pain triage vignette, the nurse correctly referred 84 of 100 true emergencies; physicians required the AI to correctly refer 11 additional patients (95% sensitivity) and the general population demanded referral of 16 additional patients (100% sensitivity) (p<0.001 for both groups). Among 100 patients not requiring referral, the nurse would mistakenly refer 66. Both groups required the AI to reduce unnecessary referrals by 16 (50% specificity) (p<0.001). A similar pattern was observed in the other vignettes.
+
+### Discussion:
+
+The accuracy thresholds required by the respondents exceed the performance of many existing systems, although emerging AI research shows promise in narrowing the gap.
+
+### Conclusion:
+
+Physicians and the general population require medical AI systems to outperform human clinicians. When implementing AI in healthcare settings, early engagement with both groups may be necessary to align expectations with real-world system performance.
 
 </Publication>
 
