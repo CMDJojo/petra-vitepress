@@ -138,6 +138,7 @@ This group has collaborated with the following people:
 img.about-me {
   border-radius: 1rem;
   margin-top: 1rem;
+  margin-right: 1rem;
 }
 /* Lite kod för att göra så bilden ligger bredvid texten
    ifall skärmen är bred nog */
