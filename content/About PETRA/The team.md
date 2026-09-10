@@ -135,14 +135,14 @@ This group has collaborated with the following people:
 [ms]: ../Research%20Projects/Perspective%20metasynthesis
 
 <style>
-img.about-me {
+.vp-doc img.about-me {
   border-radius: 1rem;
   margin: 1rem 1rem 0 0;
 }
 /* Lite kod för att göra så bilden ligger bredvid texten
    ifall skärmen är bred nog */
 @media only screen and (min-width:500px) {
-  img.about-me {
+  .vp-doc img.about-me {
     float: left;
     width: 150px;
     margin-right: 1rem;
