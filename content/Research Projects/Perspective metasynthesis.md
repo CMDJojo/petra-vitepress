@@ -8,11 +8,12 @@ Artificial Intelligence in Primary Care.
 
 ## The team behind it
 
-This project is run by two amazing [collaborators][colab], Alisa Mundic and
-Robin Bogdanffy. The literature survey and analysis of data was done by these
+This project was run by [Alisa Mundic][alisa] and the collaborator [Robin Bogdanffy][colab].
+The literature survey and analysis of data was done by these
 two authors, and Alisa wrote the article covering the patient perspecives, while
 Robin wrote the article covering the clinicans perspectives.
 
+[alisa]: /About%20PETRA/The%20team.md#alisa
 [colab]: /About%20PETRA/The%20team.md#colabs
 
 ### Other contributors

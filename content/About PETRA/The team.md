@@ -12,9 +12,8 @@ a couple of projects, and some of which who are a part of multiple projects.
 
 ## Board of PETRA
 
-The "Board of PETRA", if we can call it that, are the members who control the
-PETRA organization itself. Most of the people here have a strong engagement
-in multiple of the projects, but more essentially, they governs the PETRA
+Here are the members of the PETRA group. Most of the people listed have a strong
+engagement in multiple of our projects, and together they govern the PETRA
 group and make organization-level decisions.
 _The members are listed in alphabetic order._
 
@@ -48,11 +47,19 @@ Anna Moberg is a general practitioner and a senior lecturer at HMV, Linköping
 University. Her research mainly focuses on three areas: digital heart and lung
 sounds, infections in primary care, and AI in primary care.
 
+### Alisa Mundzic {#alisa}
+
+<img class="about-me" src="/team/Alisa.webp">
+
+Alisa Mundzic is a general practitioner, splitting her time between clinical work, the football field
+and research. She is a national team physician for the Swedish football association, and researches
+on patient's perspectives on AI in primary care.
+
 ### Peter Nymberg {#peter}
 
 <img class="about-me" src="/team/Peter.webp">
 
-Peter is a District Nurse with a PhD, dividing his time between clinical work at a healthcare
+Peter is a District Nurse with a PhD, splitting his time between clinical work at a healthcare
 centre and time for research in several different primary healthcare research projects.
 Affiliated with the Office for Primary Care, Skåne University Hospital,
 and Center for Primary Health Care Research, Department of Clinical
@@ -122,7 +129,6 @@ independently.
 This group has collaborated with the following people:
 
 - Robin Bogdanffy (The [perspective metasynthesis][ms] project)
-- Alisa Mundzic (The [perspective metasynthesis][ms] project)
 - Lina Al-Naasan (The [survey](../Research%20Projects/Survey%20study) project)
 - Artin Entezarjou (board member until September of 2024)
 
