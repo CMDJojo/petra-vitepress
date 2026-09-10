@@ -137,8 +137,7 @@ This group has collaborated with the following people:
 <style>
 img.about-me {
   border-radius: 1rem;
-  margin-top: 1rem;
-  margin-right: 1rem;
+  margin: 1rem 1rem 0 0;
 }
 /* Lite kod för att göra så bilden ligger bredvid texten
    ifall skärmen är bred nog */
