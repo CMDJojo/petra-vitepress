@@ -59,10 +59,10 @@ on patient's perspectives on AI in primary care.
 
 <img class="about-me" src="/team/Peter.webp">
 
-Peter is a District Nurse with a PhD, splitting his time between clinical work at a healthcare
-centre and time for research in several different primary healthcare research projects.
-Affiliated with the Office for Primary Care, Skåne University Hospital,
-and Center for Primary Health Care Research, Department of Clinical
+Peter is a District Nurse and associate professor in general medicine research, splitting his time
+between clinical work at a healthcare centre and time for research in several different primary
+healthcare research projects. Affiliated with the Office for Primary Care, Skåne University
+Hospital, and Center for Primary Health Care Research, Department of Clinical
 Sciences Malmö, Lund University, Sweden.
 
 ### David Sundemo {#david}
